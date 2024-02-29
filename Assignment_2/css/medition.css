@@ -1,0 +1,214 @@
+.images-3-icon {
+    position: absolute;
+    top: 370px;
+    left: 881px;
+    width: 350px;
+    height: 410px;
+    object-fit: cover;
+    display: none;
+  }
+  .pngtree-golden-buddha-statue-a-icon {
+    position: absolute;
+    top: 486px;
+    left: 185px;
+    border-radius: 62px;
+    width: 298px;
+    height: 330px;
+    object-fit: cover;
+  }
+  .group-child8,
+  .group-child9 {
+    position: absolute;
+    top: calc(50% - 75.5px);
+    left: calc(50% - 641.5px);
+    background-color: var(--color-paleturquoise-200);
+    width: 1280px;
+    height: 120px;
+  }
+  .group-child9 {
+    top: calc(50% + 44.5px);
+    height: 55px;
+  }
+  .f-389306425-zasieurl3pnvnc3gpo-icon6,
+  .f-389306425-zasieurl3pnvnc3gpo-icon7 {
+    position: absolute;
+    top: calc(50% - 99.5px);
+    left: calc(50% - 662.5px);
+    width: 159px;
+    height: 167px;
+    object-fit: cover;
+    mix-blend-mode: linear-burn;
+  }
+  .f-389306425-zasieurl3pnvnc3gpo-icon7 {
+    left: calc(50% + 503.5px);
+  }
+  .mindful3 {
+    position: absolute;
+    top: calc(50% - 75.5px);
+    left: calc(50% - 297.5px);
+    font-size: var(--font-size-77xl);
+    display: flex;
+    font-family: var(--font-nunito);
+    align-items: center;
+    justify-content: center;
+    width: 631px;
+    height: 120px;
+  }
+  .about-us3,
+  .contact3,
+  .home3,
+  .login4,
+  .sing-up3 {
+    position: absolute;
+    top: calc(50% + 44.5px);
+    display: inline-block;
+    width: 170px;
+    height: 55px;
+  }
+  .home3 {
+    left: calc(50% - 467.5px);
+    cursor: pointer;
+  }
+  .about-us3,
+  .contact3,
+  .login4,
+  .sing-up3 {
+    left: calc(50% + 62.5px);
+  }
+  .about-us3,
+  .contact3,
+  .sing-up3 {
+    left: calc(50% + 232.5px);
+  }
+  .about-us3,
+  .contact3 {
+    left: calc(50% - 287.5px);
+  }
+  .contact3 {
+    left: calc(50% - 107.5px);
+  }
+  .rectangle-parent1 {
+    position: absolute;
+    top: calc(50% - 444px);
+    left: calc(50% - 663px);
+    width: 1325px;
+    height: 199px;
+    font-family: var(--font-inika);
+  }
+  .macbook-air-4-child,
+  .macbook-air-4-item {
+    position: absolute;
+    top: calc(50% - 217px);
+    border-radius: var(--br-xl);
+    background-color: var(--color-whitesmoke);
+    height: 600px;
+    opacity: 0.4;
+  }
+  .macbook-air-4-child {
+    left: 130px;
+    width: 659px;
+  }
+  .macbook-air-4-item {
+    right: 150px;
+    width: 565px;
+  }
+  .how-to-meditate,
+  .what-is-medition {
+    position: absolute;
+    top: 211px;
+    left: 130px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 659px;
+    height: 57px;
+  }
+  .how-to-meditate {
+    left: 702px;
+    width: 557px;
+  }
+  .meditation-isnt-about {
+    position: absolute;
+    top: 274px;
+    left: 170px;
+    font-size: var(--font-size-13xl);
+    line-height: 30px;
+    text-transform: capitalize;
+    display: inline-block;
+    font-family: var(--font-merriweather);
+    width: 583px;
+    height: 479px;
+  }
+  .blank-line {
+    margin: 0;
+  }
+  .take-seat-find {
+    margin: 0;
+    white-space: pre-line;
+  }
+  .take-seat-find-container {
+    position: absolute;
+    top: 283px;
+    left: 890px;
+    font-size: var(--font-size-5xl);
+    font-weight: 600;
+    text-align: left;
+    display: inline-block;
+    width: 557px;
+    height: 516px;
+  }
+  .macbook-air-4-inner {
+    position: absolute;
+    top: 340px;
+    left: 850px;
+    width: 23px;
+    height: 26px;
+  }
+  .macbook-air-4-child1,
+  .macbook-air-4-child2,
+  .star-icon {
+    position: absolute;
+    top: 420px;
+    left: 850px;
+    width: 23px;
+    height: 26px;
+  }
+  .macbook-air-4-child1,
+  .macbook-air-4-child2 {
+    top: 472px;
+    left: 850px;
+  }
+  .macbook-air-4-child2 {
+    top: 525px;
+    left: 850px;
+  }
+  .macbook-air-4-child3,
+  .macbook-air-4-child4,
+  .macbook-air-4-child5 {
+    position: absolute;
+    top: 580px;
+    left: 850px;
+    width: 23px;
+    height: 26px;
+  }
+
+  .macbook-air-4-child4 {
+    top: 635px;
+    left: 850px;
+  }
+  .macbook-air-4-child5 {
+    top: 690px;
+    left: 850px;
+  }
+  .macbook-air-4 {
+    width: 100%;
+    position: relative;
+    background-color: var(--color-white);
+    height: 832px;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--font-size-21xl);
+    color: var(--color-black);
+    font-family: var(--font-inter);
+  }
+  

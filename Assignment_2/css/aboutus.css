@@ -1,0 +1,213 @@
+.b36de95-79e9-49f9-9b5f-adfb7ee-icon {
+    position: absolute;
+    right: 13px;
+    bottom: 17px;
+    width: 638px;
+    height: 626px;
+    object-fit: cover;
+  }
+  .group-child10,
+  .group-child11 {
+    position: absolute;
+    top: calc(50% - 75.5px);
+    left: calc(50% - 641.5px);
+    background-color: var(--color-paleturquoise-200);
+    width: 1280px;
+    height: 120px;
+  }
+  .group-child11 {
+    top: calc(50% + 44.5px);
+    height: 55px;
+  }
+  .f-389306425-zasieurl3pnvnc3gpo-icon8,
+  .f-389306425-zasieurl3pnvnc3gpo-icon9 {
+    position: absolute;
+    top: calc(50% - 99.5px);
+    left: calc(50% - 662.5px);
+    width: 159px;
+    height: 167px;
+    object-fit: cover;
+    mix-blend-mode: linear-burn;
+  }
+  .f-389306425-zasieurl3pnvnc3gpo-icon9 {
+    left: calc(50% + 503.5px);
+  }
+  .mindful4 {
+    position: absolute;
+    top: calc(50% - 75.5px);
+    left: calc(50% - 297.5px);
+    font-size: var(--font-size-77xl);
+    display: flex;
+    font-family: var(--font-nunito);
+    align-items: center;
+    justify-content: center;
+    width: 631px;
+    height: 120px;
+  }
+  .about-us4,
+  .contact4,
+  .home4,
+  .login5,
+  .sing-up4 {
+    position: absolute;
+    top: calc(50% + 44.5px);
+    display: inline-block;
+    width: 170px;
+    height: 55px;
+  }
+  .home4 {
+    left: calc(50% - 467.5px);
+    cursor: pointer;
+  }
+  .about-us4,
+  .contact4,
+  .login5,
+  .sing-up4 {
+    left: calc(50% + 62.5px);
+  }
+  .about-us4,
+  .contact4,
+  .sing-up4 {
+    left: calc(50% + 232.5px);
+  }
+  .about-us4,
+  .contact4 {
+    left: calc(50% - 287.5px);
+  }
+  .contact4 {
+    left: calc(50% - 107.5px);
+  }
+  .rectangle-parent2 {
+    position: absolute;
+    top: calc(50% - 439px);
+    left: calc(50% - 663px);
+    width: 1325px;
+    height: 199px;
+  }
+  .group-child12,
+  .group-child13,
+  .group-child14 {
+    position: absolute;
+    bottom: 315px;
+    left: 1px;
+    border-radius: var(--br-6xl);
+    background-color: var(--color-gainsboro);
+    width: 591px;
+    height: 319px;
+  }
+  .group-child13,
+  .group-child14 {
+    bottom: 121px;
+    left: 0;
+    height: 189px;
+  }
+  .group-child14 {
+    bottom: 0;
+    left: 1px;
+    height: 116px;
+  }
+  .why-we-need {
+    position: absolute;
+    bottom: 577px;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 592px;
+    height: 57px;
+  }
+  .meditation-can-give {
+    margin: 0;
+  }
+  .meditation-can-give-container {
+    position: absolute;
+    bottom: 330px;
+    left: 10px;
+    font-size: var(--font-size-5xl);
+    font-weight: 500;
+    display: inline-block;
+    width: 572px;
+    height: 247px;
+  }
+  .importance-of-meditation {
+    position: absolute;
+    bottom: 258px;
+    left: 1px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 590px;
+    height: 44px;
+  }
+  .committing-to-a {
+    position: absolute;
+    bottom: 121px;
+    left: 10px;
+    font-size: var(--font-size-5xl);
+    font-weight: 600;
+    display: inline-block;
+    width: 572px;
+    height: 124px;
+  }
+  .to-know-more {
+    position: absolute;
+    bottom: 61px;
+    left: 1px;
+    font-size: var(--font-size-17xl);
+    font-family: var(--font-domine);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 591px;
+    height: 40px;
+  }
+  .click-here,
+  .group-child15 {
+    position: absolute;
+    left: 0;
+    width: 329px;
+  }
+  .group-child15 {
+    bottom: 0;
+    border-radius: var(--br-mini);
+    background-color: var(--color-lightgreen);
+    height: 48px;
+  }
+  .click-here {
+    bottom: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+  }
+  .rectangle-parent4 {
+    position: absolute;
+    bottom: 8px;
+    left: 132px;
+    width: 329px;
+    height: 48px;
+    font-size: var(--font-size-17xl);
+    font-family: var(--font-domine);
+  }
+  .rectangle-parent3 {
+    position: absolute;
+    bottom: 9px;
+    left: 16px;
+    width: 592px;
+    height: 634px;
+    font-size: var(--font-size-13xl);
+    font-family: var(--font-inter);
+  }
+  .macbook-air-5 {
+    width: 100%;
+    position: relative;
+    background-color: var(--color-white);
+    height: 832px;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--font-size-21xl);
+    color: var(--color-black);
+    font-family: var(--font-inika);
+  }
+  

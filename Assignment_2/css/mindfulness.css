@@ -1,0 +1,139 @@
+.group-child16,
+.group-child17 {
+  position: absolute;
+  top: calc(50% - 75.5px);
+  left: calc(50% - 641.5px);
+  background-color: var(--color-paleturquoise-200);
+  width: 1280px;
+  height: 120px;
+}
+.group-child17 {
+  top: calc(50% + 44.5px);
+  height: 55px;
+}
+.f-389306425-zasieurl3pnvnc3gpo-icon10,
+.f-389306425-zasieurl3pnvnc3gpo-icon11 {
+  position: absolute;
+  top: calc(50% - 99.5px);
+  left: calc(50% - 662.5px);
+  width: 159px;
+  height: 167px;
+  object-fit: cover;
+  mix-blend-mode: linear-burn;
+}
+.f-389306425-zasieurl3pnvnc3gpo-icon11 {
+  left: calc(50% + 503.5px);
+}
+.mindful5 {
+  position: absolute;
+  top: calc(50% - 75.5px);
+  left: calc(50% - 297.5px);
+  font-size: var(--font-size-77xl);
+  display: flex;
+  font-family: var(--font-nunito);
+  align-items: center;
+  justify-content: center;
+  width: 631px;
+  height: 120px;
+}
+.about-us5,
+.contact5,
+.home5,
+.login6,
+.sing-up5 {
+  position: absolute;
+  top: calc(50% + 44.5px);
+  display: inline-block;
+  width: 170px;
+  height: 55px;
+}
+.home5 {
+  left: calc(50% - 467.5px);
+  cursor: pointer;
+}
+.about-us5,
+.contact5,
+.login6,
+.sing-up5 {
+  left: calc(50% + 62.5px);
+}
+.about-us5,
+.contact5,
+.sing-up5 {
+  left: calc(50% + 232.5px);
+}
+.about-us5,
+.contact5 {
+  left: calc(50% - 287.5px);
+}
+.contact5 {
+  left: calc(50% - 107.5px);
+}
+.rectangle-parent5 {
+  position: absolute;
+  top: calc(50% - 436px);
+  left: calc(50% - 663px);
+  width: 1325px;
+  height: 199px;
+  font-family: var(--font-inika);
+}
+.macbook-air-6-child {
+  position: absolute;
+  top: 421px;
+  left: 130px;
+  border-radius: 36px;
+  background-color: var(--color-gainsboro);
+  width: 1260px;
+  height: 397px;
+}
+.d3c039-38c4-4473-af35-15e759d0-icon {
+  position: absolute;
+  top: 442px;
+  left: calc(50% - 618px);
+  width: 1236px;
+  height: 356px;
+  object-fit: cover;
+}
+.macbook-air-6-item {
+  position: absolute;
+  top: 194px;
+  left: calc(50% - 603px);
+  border-radius: var(--br-20xl);
+  background-color: var(--color-gainsboro);
+  width: 1205px;
+  height: 211px;
+}
+.mindfulness,
+.mindfulness-is-a {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.mindfulness {
+  top: 194px;
+  left: 37px;
+  font-size: var(--font-size-13xl);
+  justify-content: center;
+  width: inherit;
+  height: 63px;
+}
+.mindfulness-is-a {
+  top: 261px;
+  left: 180px;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+  text-align: left;
+  width: 1168px;
+  height: 114px;
+}
+.macbook-air-6 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 832px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

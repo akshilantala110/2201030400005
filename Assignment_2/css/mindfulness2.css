@@ -1,0 +1,225 @@
+.f-466503764-rl3kvkhsuayom2ni0o-icon {
+  position: absolute;
+  top: calc(50% - 238px);
+  left: calc(50% - 642px);
+  width: 1280px;
+  height: 330px;
+  object-fit: cover;
+}
+.macbook-air-7-child,
+.macbook-air-7-item {
+  position: absolute;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+}
+.macbook-air-7-child {
+  top: 510px;
+  left: 11px;
+  width: 1258px;
+  height: 286px;
+}
+.macbook-air-7-item {
+  bottom: 36px;
+  left: calc(50% - 640px);
+  width: 1269px;
+  height: 288px;
+}
+.group-child,
+.group-item {
+  position: absolute;
+  top: calc(50% - 75.5px);
+  left: calc(50% - 641.5px);
+  background-color: var(--color-paleturquoise-200);
+  width: 1280px;
+  height: 120px;
+}
+.group-item {
+  top: calc(50% + 44.5px);
+  height: 55px;
+}
+.f-389306425-zasieurl3pnvnc3gpo-icon,
+.f-389306425-zasieurl3pnvnc3gpo-icon1 {
+  position: absolute;
+  top: calc(50% - 99.5px);
+  left: calc(50% - 662.5px);
+  width: 159px;
+  height: 167px;
+  object-fit: cover;
+  mix-blend-mode: linear-burn;
+}
+.f-389306425-zasieurl3pnvnc3gpo-icon1 {
+  left: calc(50% + 503.5px);
+}
+.mindful {
+  position: absolute;
+  top: calc(50% - 75.5px);
+  left: calc(50% - 297.5px);
+  font-size: var(--font-size-77xl);
+  display: flex;
+  font-family: var(--font-nunito);
+  align-items: center;
+  justify-content: center;
+  width: 631px;
+  height: 120px;
+}
+.about-us,
+.contact,
+.home,
+.login,
+.sing-up {
+  position: absolute;
+  top: calc(50% + 44.5px);
+  display: inline-block;
+  width: 170px;
+  height: 55px;
+}
+.home {
+  left: calc(50% - 467.5px);
+  cursor: pointer;
+}
+.about-us,
+.contact,
+.login,
+.sing-up {
+  left: calc(50% + 62.5px);
+}
+.about-us,
+.contact,
+.sing-up {
+  left: calc(50% + 232.5px);
+}
+.about-us,
+.contact {
+  left: calc(50% - 287.5px);
+}
+.contact {
+  left: calc(50% - 107.5px);
+}
+.benefits,
+.rectangle-parent {
+  position: absolute;
+  text-align: center;
+}
+.rectangle-parent {
+  top: calc(50% - 437px);
+  left: calc(50% - 663px);
+  width: 1325px;
+  height: 199px;
+  font-family: var(--font-inika);
+}
+.benefits {
+  top: 508px;
+  left: 17px;
+  font-size: var(--font-size-17xl);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1258px;
+  height: 50px;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.macbook-air-7-inner,
+.rectangle-div {
+  position: absolute;
+  border-radius: var(--br-13xl);
+  background-color: var(--color-moccasin);
+  width: 565px;
+  height: 217px;
+}
+.macbook-air-7-inner {
+  bottom: 41px;
+  left: 52px;
+}
+.rectangle-div {
+  right: 57px;
+  bottom: 36px;
+}
+.ellipse-div,
+.macbook-air-7-child1,
+.macbook-air-7-child2 {
+  position: absolute;
+  top: 614px;
+  left: 128px;
+  border-radius: 50%;
+  background-color: var(--color-black);
+  width: 15px;
+  height: 15px;
+}
+.macbook-air-7-child1,
+.macbook-air-7-child2 {
+  top: 667px;
+}
+.macbook-air-7-child2 {
+  top: 720px;
+}
+.help-relieve-stress {
+  position: absolute;
+  top: 596px;
+  left: 158px;
+  display: inline-block;
+  width: 353px;
+  height: 52px;
+}
+.macbook-air-7-child3,
+.macbook-air-7-child4,
+.macbook-air-7-child5 {
+  position: absolute;
+  top: 613px;
+  left: 712px;
+  border-radius: 50%;
+  background-color: var(--color-black);
+  width: 15px;
+  height: 15px;
+}
+.macbook-air-7-child4,
+.macbook-air-7-child5 {
+  top: 668px;
+}
+.macbook-air-7-child5 {
+  top: 720px;
+}
+.improve-sleep,
+.reduce-chronic-pain {
+  position: absolute;
+  top: 600px;
+  left: 740px;
+  display: inline-block;
+  width: 402px;
+  height: 52px;
+}
+.improve-sleep {
+  top: 653px;
+  left: 745px;
+  width: 353px;
+}
+.alleviate-gastrointestinal,
+.lower-blood-pressure,
+.treat-heart-disease {
+  position: absolute;
+  top: 709px;
+  left: 740px;
+  display: inline-block;
+  width: 483px;
+  height: 52px;
+}
+.lower-blood-pressure,
+.treat-heart-disease {
+  top: 656px;
+  left: 158px;
+  width: 353px;
+}
+.lower-blood-pressure {
+  top: 709px;
+  width: 410px;
+}
+.macbook-air-7 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 832px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-domine);
+}

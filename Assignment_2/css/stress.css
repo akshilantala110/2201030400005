@@ -1,0 +1,127 @@
+.group-child20,
+.group-child21 {
+  position: absolute;
+  top: calc(50% - 75.5px);
+  left: calc(50% - 641.5px);
+  background-color: var(--color-paleturquoise-200);
+  width: 1280px;
+  height: 120px;
+}
+.group-child21 {
+  top: calc(50% + 44.5px);
+  height: 55px;
+}
+.f-389306425-zasieurl3pnvnc3gpo-icon14,
+.f-389306425-zasieurl3pnvnc3gpo-icon15 {
+  position: absolute;
+  top: calc(50% - 99.5px);
+  left: calc(50% - 662.5px);
+  width: 159px;
+  height: 167px;
+  object-fit: cover;
+  mix-blend-mode: linear-burn;
+}
+.f-389306425-zasieurl3pnvnc3gpo-icon15 {
+  left: calc(50% + 503.5px);
+}
+.mindful7 {
+  position: absolute;
+  top: calc(50% - 75.5px);
+  left: calc(50% - 297.5px);
+  font-size: var(--font-size-77xl);
+  display: flex;
+  font-family: var(--font-nunito);
+  align-items: center;
+  justify-content: center;
+  width: 631px;
+  height: 120px;
+}
+.about-us7,
+.contact7,
+.home7,
+.login8,
+.sing-up7 {
+  position: absolute;
+  top: calc(50% + 44.5px);
+  display: inline-block;
+  width: 170px;
+  height: 55px;
+}
+.home7 {
+  left: calc(50% - 467.5px);
+  cursor: pointer;
+}
+.about-us7,
+.contact7,
+.login8,
+.sing-up7 {
+  left: calc(50% + 62.5px);
+}
+.about-us7,
+.contact7,
+.sing-up7 {
+  left: calc(50% + 232.5px);
+}
+.about-us7,
+.contact7 {
+  left: calc(50% - 287.5px);
+}
+.contact7 {
+  left: calc(50% - 107.5px);
+}
+.rectangle-parent7 {
+  position: absolute;
+  top: calc(50% - 438px);
+  left: calc(50% - 663px);
+  width: 1325px;
+  height: 199px;
+}
+.macbook-air-8-child {
+  position: absolute;
+  top: calc(50% - 213px);
+  left: calc(50% - 631px);
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  width: 1261px;
+  height: 610px;
+}
+.relaxation-technique1 {
+  position: absolute;
+  top: 203px;
+  left: 0;
+  font-size: var(--font-size-13xl);
+  display: flex;
+  font-family: var(--font-lato);
+  align-items: center;
+  justify-content: center;
+  width: 1270px;
+  height: 64px;
+}
+.b0a2918a-3cc9-46fd-acca-3e436d-icon {
+  position: absolute;
+  top: calc(50% - 197px);
+  left: 150px;
+  width: 818px;
+  height: 569px;
+  object-fit: cover;
+}
+.teenager-boy-listening-to-musi-icon {
+  position: absolute;
+  /* top: calc(50% - 33px); */
+  top: 300px;
+  right: 150px;
+  width: 321px;
+  height: 430px;
+  object-fit: cover;
+}
+.macbook-air-8 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 832px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-inika);
+}

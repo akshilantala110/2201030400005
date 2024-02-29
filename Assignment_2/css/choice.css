@@ -1,0 +1,164 @@
+.choice-page-3-child {
+    left: 44px;
+  }
+  .choice-page-3-child,
+  .choice-page-3-inner,
+  .choice-page-3-item {
+    position: absolute;
+    top: calc(50% - 187px);
+    background-color: var(--color-gainsboro);
+    width: 350px;
+    height: 562px;
+    cursor: pointer;
+  }
+  .choice-page-3-item {
+    right: 37px;
+  }
+  .choice-page-3-inner {
+    left: calc(50% - 171px);
+  }
+  .meditation {
+    margin: 0;
+  }
+  .meditation-session-txt-container {
+    width: 100%;
+  }
+  .choose-any-of,
+  .meditation-session,
+  .mindfulness-exercise,
+  .relaxation-technique {
+    position: absolute;
+    top: 661px;
+    left: 44px;
+    display: flex;
+    align-items: center;
+    width: 350px;
+    height: 130px;
+  }
+  .choose-any-of,
+  .mindfulness-exercise,
+  .relaxation-technique {
+    left: 1130px;
+    justify-content: center;
+  }
+  .choose-any-of,
+  .mindfulness-exercise {
+    left: 587px;
+  }
+  .choose-any-of {
+    top: 171px;
+    left: 500px;
+    width: 508px;
+    height: 58px;
+  }
+  .download-1-icon,
+  .images-1-icon,
+  .images-2-icon {
+    position: absolute;
+    top: 245px;
+    left: 63px;
+    width: 311px;
+    height: 430px;
+    object-fit: cover;
+    mix-blend-mode: linear-burn;
+  }
+  .download-1-icon,
+  .images-1-icon {
+    top: 253px;
+    left: 607px;
+    width: 309px;
+  }
+  .download-1-icon {
+    left: 1150px;
+    width: 310px;
+    cursor: pointer;
+  }
+  .group-child4,
+  .group-child5 {
+    position: absolute;
+    top: 24px;
+    left: 21px;
+    background-color: var(--color-paleturquoise-200);
+    width: 1280px;
+    height: 120px;
+  }
+  .group-child5 {
+    top: 144px;
+    height: 55px;
+  }
+  .f-389306425-zasieurl3pnvnc3gpo-icon2,
+  .f-389306425-zasieurl3pnvnc3gpo-icon3 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 159px;
+    height: 167px;
+    object-fit: cover;
+    mix-blend-mode: linear-burn;
+  }
+  .f-389306425-zasieurl3pnvnc3gpo-icon3 {
+    left: 1166px;
+  }
+  .mindful1 {
+    position: absolute;
+    top: 24px;
+    left: 365px;
+    font-size: var(--font-size-77xl);
+    display: flex;
+    font-family: var(--font-nunito);
+    align-items: center;
+    justify-content: center;
+    width: 631px;
+    height: 120px;
+  }
+  .about-us1,
+  .choice1,
+  .home1,
+  .login2,
+  .sing-up1 {
+    position: absolute;
+    top: 144px;
+    left: 195px;
+    display: inline-block;
+    width: 170px;
+    height: 55px;
+  }
+  .about-us1,
+  .choice1,
+  .login2,
+  .sing-up1 {
+    left: 725px;
+  }
+  .about-us1,
+  .choice1,
+  .sing-up1 {
+    left: 895px;
+  }
+  .about-us1,
+  .choice1 {
+    left: 375px;
+  }
+  .choice1 {
+    left: 555px;
+  }
+  .rectangle-container {
+    position: absolute;
+    top: -28px;
+    left: 100px;
+    width: 1325px;
+    height: 199px;
+    font-size: var(--font-size-21xl);
+    font-family: var(--font-inika);
+  }
+  .choice-page-3 {
+    width: 100%;
+    position: relative;
+    background-color: var(--color-white);
+    height: 832px;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--font-size-13xl);
+    color: var(--color-black);
+    font-family: var(--font-montagu-slab);
+  }
+  

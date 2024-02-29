@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-cabin: Cabin;
+  --font-lato: Lato;
+  --font-inika: Inika;
+  --font-nunito: Nunito;
+  --font-montagu-slab: "Montagu Slab";
+  --font-inter: Inter;
+  --font-merriweather: Merriweather;
+  --font-domine: Domine;
+  --font-montserrat-alternates: "Montserrat Alternates";
+
+  /* font sizes */
+  --font-size-17xl: 36px;
+  --font-size-21xl: 40px;
+  --font-size-77xl: 96px;
+  --font-size-13xl: 32px;
+  --font-size-5xl: 24px;
+  --font-size-29xl: 48px;
+
+  /* Colors */
+  --color-gainsboro: #d9d9d9;
+  --color-black: #000;
+  --color-white: #fff;
+  --color-gray-200: rgba(255, 255, 255, 0.5);
+  --color-gray-100: rgba(0, 0, 0, 0.5);
+  --color-lightskyblue: #83c2f0;
+  --color-paleturquoise-100: #8fd8d8;
+  --color-paleturquoise-200: rgba(143, 216, 216, 0.5);
+  --color-whitesmoke: #f0f0f0;
+  --color-lightgreen: #aaf59e;
+  --color-moccasin: #ffe5b4;
+
+  /* Border radiuses */
+  --br-xl: 20px;
+  --br-mini: 15px;
+  --br-6xl: 25px;
+  --br-20xl: 39px;
+  --br-13xl: 32px;
+  --br-5xl: 24px;
+}
