@@ -11,8 +11,8 @@
   top: calc(50% + 44.5px);
   height: 55px;
 }
-.f-389306425-zasieurl3pnvnc3gpo-icon14,
-.f-389306425-zasieurl3pnvnc3gpo-icon15 {
+.st-logo-icon14,
+.st-logo-icon15 {
   position: absolute;
   top: calc(50% - 99.5px);
   left: calc(50% - 662.5px);
@@ -21,7 +21,7 @@
   object-fit: cover;
   mix-blend-mode: linear-burn;
 }
-.f-389306425-zasieurl3pnvnc3gpo-icon15 {
+.st-logo-icon15 {
   left: calc(50% + 503.5px);
 }
 .mindful7 {
@@ -76,7 +76,7 @@
   width: 1325px;
   height: 199px;
 }
-.macbook-air-8-child {
+.st-8-child {
   position: absolute;
   top: calc(50% - 213px);
   left: calc(50% - 631px);
@@ -97,7 +97,7 @@
   width: 1270px;
   height: 64px;
 }
-.b0a2918a-3cc9-46fd-acca-3e436d-icon {
+.st-reduce-icon {
   position: absolute;
   top: calc(50% - 197px);
   left: 150px;
@@ -105,7 +105,7 @@
   height: 569px;
   object-fit: cover;
 }
-.teenager-boy-listening-to-musi-icon {
+.music-icon {
   position: absolute;
   /* top: calc(50% - 33px); */
   top: 300px;
@@ -114,7 +114,7 @@
   height: 430px;
   object-fit: cover;
 }
-.macbook-air-8 {
+.st-8 {
   width: 100%;
   position: relative;
   background-color: var(--color-white);

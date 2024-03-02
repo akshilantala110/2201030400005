@@ -11,8 +11,8 @@
   top: calc(50% + 44.5px);
   height: 55px;
 }
-.f-389306425-zasieurl3pnvnc3gpo-icon10,
-.f-389306425-zasieurl3pnvnc3gpo-icon11 {
+.mf-logo-icon10,
+.mf-logo-icon11 {
   position: absolute;
   top: calc(50% - 99.5px);
   left: calc(50% - 662.5px);
@@ -21,7 +21,7 @@
   object-fit: cover;
   mix-blend-mode: linear-burn;
 }
-.f-389306425-zasieurl3pnvnc3gpo-icon11 {
+.mf-logo-icon11 {
   left: calc(50% + 503.5px);
 }
 .mindful5 {
@@ -77,7 +77,7 @@
   height: 199px;
   font-family: var(--font-inika);
 }
-.macbook-air-6-child {
+.mf-6-child {
   position: absolute;
   top: 421px;
   left: 130px;
@@ -86,7 +86,7 @@
   width: 1260px;
   height: 397px;
 }
-.d3c039-38c4-4473-af35-15e759d0-icon {
+.mindfulness-icon {
   position: absolute;
   top: 442px;
   left: calc(50% - 618px);
@@ -94,7 +94,7 @@
   height: 356px;
   object-fit: cover;
 }
-.macbook-air-6-item {
+.mf-6-item {
   position: absolute;
   top: 194px;
   left: calc(50% - 603px);
@@ -104,7 +104,7 @@
   height: 211px;
 }
 .mindfulness,
-.mindfulness-is-a {
+.mindfulness-def {
   position: absolute;
   display: flex;
   align-items: center;
@@ -117,7 +117,7 @@
   width: inherit;
   height: 63px;
 }
-.mindfulness-is-a {
+.mindfulness-def {
   top: 261px;
   left: 180px;
   font-size: var(--font-size-5xl);
@@ -126,7 +126,7 @@
   width: 1168px;
   height: 114px;
 }
-.macbook-air-6 {
+.mf-6 {
   width: 100%;
   position: relative;
   background-color: var(--color-white);

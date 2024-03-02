@@ -12,8 +12,8 @@
   height: 55px;
   width: 100%;  
 }
-.f-389306425-zasieurl3pnvnc3gpo-icon,
-.f-389306425-zasieurl3pnvnc3gpo-icon1 {
+.l-logo-icon,
+.l-logo-icon1 {
   position: absolute;
   top: calc(50% - 99.5px);
   left: calc(50% - 662.5px);
@@ -22,7 +22,7 @@
   object-fit: cover;
   mix-blend-mode: linear-burn;
 }
-.f-389306425-zasieurl3pnvnc3gpo-icon1 {
+.l-logo-icon1 {
   left: calc(50% + 503.5px);
 }
 .mindful {

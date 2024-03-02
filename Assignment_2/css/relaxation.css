@@ -11,8 +11,8 @@
   top: calc(50% + 44.5px);
   height: 55px;
 }
-.f-389306425-zasieurl3pnvnc3gpo-icon16,
-.f-389306425-zasieurl3pnvnc3gpo-icon17 {
+.re-logo-icon16,
+.re-logo-icon17 {
   position: absolute;
   top: calc(50% - 99.5px);
   left: calc(50% - 662.5px);
@@ -21,7 +21,7 @@
   object-fit: cover;
   mix-blend-mode: linear-burn;
 }
-.f-389306425-zasieurl3pnvnc3gpo-icon17 {
+.re-logo-icon17 {
   left: calc(50% + 503.5px);
 }
 .mindful8 {
@@ -202,7 +202,7 @@
   height: 305px;
   text-align: left;
 }
-.macbook-air-9-child {
+.re-9-child {
   position: absolute;
   bottom: 0;
   left: calc(50% - 314px);
@@ -287,7 +287,7 @@
   font-size: var(--font-size-13xl);
   font-family: var(--font-inter);
 }
-.macbook-air-9 {
+.re-9 {
   width: 100%;
   position: relative;
   background-color: var(--color-white);
